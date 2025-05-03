@@ -123,7 +123,8 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-![image](https://github.com/user-attachments/assets/d26c5e65-66d0-40d5-9d97-913fd582ccaa)
+![Screenshot (19)](https://github.com/user-attachments/assets/2abb539b-0fdf-4e13-95e2-669946998a1a)
+
 
 
 ## RESULT:
